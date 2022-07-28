@@ -1,1 +1,0 @@
-int globel = 0;
