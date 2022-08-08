@@ -3,6 +3,12 @@
 ## 2022.08
 
 
+### 08.08
+
+- [How to Have a Good Conversation](https://www.youtube.com/watch?v=H6n3iNh4XLI)
+
+
+
 
 ### 08.02
 
