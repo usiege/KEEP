@@ -3,11 +3,20 @@
 ## 2022.08
 
 
+
+### 08.11
+
+- [After watching this, your brain will not be the same](https://www.youtube.com/watch?v=LNHBMFCzznE)
+
+
+### 08.09
+
+- [How to Achieve Your Most Ambitious Goals](https://www.youtube.com/watch?v=TQMbvJNRpLE&t=3s)
+
+
 ### 08.08
 
 - [How to Have a Good Conversation](https://www.youtube.com/watch?v=H6n3iNh4XLI)
-
-
 
 
 ### 08.02
