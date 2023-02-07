@@ -3,13 +3,13 @@ keep one thing always!
 
 
 ## Keep-Alive 
-> 冥想
+> 我的生活
 
 - [Keep-Alive](./alive)
 
 
 ## Keep-Running 
-> 跑步
+> 跑步（合并至生活）
 
 - [Keep-Running](./running)
 
