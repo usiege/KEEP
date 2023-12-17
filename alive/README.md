@@ -1,7 +1,8 @@
 # Keep alive longevity.
 
+
+> Life Calendar
 > Physics, biochemistry, neurobiology, variety， discuss life always live.
-> 探讨意识永存？
 
 
 
@@ -11,9 +12,44 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |  |  |  |  |  |  |  |
 
+## 
+
 
 ## LIFE 2023
 > 沉浮
+
+
+## 2023.12
+
+西安 —— 河北。
+
+
+### 2023.12.17
+
+温达共创项目开始输出。
+
+### 2023.12.12
+
+FFXIV UI赛季服插件包发布。
+
+
+### 2023.12.01
+
+winda 视频开始输出。
+
+
+## 2023.11
+
+winda.
+
+### 2023.11.16
+
+Cyber711虚幻内容公众号开始。
+
+
+## 2023.10
+
+WowCube.
 
 ## 2023.09
 
