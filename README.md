@@ -8,46 +8,48 @@ keep one thing always!
 
 - [KeepAlive](./alive)
 
-
-## 阅读
+### 阅读（2021）
 
 - [Reading](./reading)
 
-## 冥想
+### 冥想（2019）
 
 - [Meditation](./meditation)
 
-## 跑步
+### 跑步（2016）
 
 - [Running](./running)
 
-## 骑行
+### 骑行（2012）
 
 - [Riding](./riding)
 
 
-## 学习
+## 我的学习
 
-### Coding 
-> 编码
+间断的学习记录
 
-- [Keep-Coding](https://github.com/usiege/Keep-Coding)
-- 
-### English 
+### 编码
 
-- [Keep-English](./study/english)
+- [Coding](https://github.com/usiege/Keep-Coding)
+
+### 英语 
+
+- [English](./study/english)
 
 -----------
 
 ## 其他的一些
 
+还有我所热爱的
+
 ### 脱口秀
-- [Keep-Joking](./others/joking)
+- [Joking](./others/joking)
 
 ### 唱歌
-- [Keep-Singing](./others/singing)
+- [Singing](./others/singing)
 
 ### Popping
-- [Keep-Popping](./others/popping)
+- [Popping](./others/popping)
 
 
