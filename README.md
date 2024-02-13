@@ -8,9 +8,7 @@ keep one thing always!
 
 - [KeepAlive](./alive)
 
-## 跑步
 
-- [Running](./running)
 
 ## 阅读
 
@@ -19,6 +17,14 @@ keep one thing always!
 ## 冥想
 
 - [Meditation](./meditation)
+
+## 跑步
+
+- [Running](./running)
+
+## 骑行
+
+- [Riding](./riding)
 
 
 ## 学习
