@@ -1,55 +1,48 @@
 # keep
+
 keep one thing always!
 
+我所热爱着的，一切！
 
-## Keep-Alive 
-> 我的生活
+## 我的生活
 
-- [Keep-Alive](./alive)
+- [KeepAlive](./alive)
 
+## 跑步
 
-## Keep-Running 
-> 跑步（合并至生活）
+- [Running](./running)
 
-- [Keep-Running](./running)
+## 阅读
 
+- [Reading](./reading)
 
-## Keep-Reading 
-> 阅读
+## 冥想
 
-- [Keep-Reading](./reading)
-
-
-## Keep-English 
-> 英语
-
-- [Keep-English](./english)
+- [Meditation](./meditation)
 
 
-## Keep-Coding 
+## 学习
+
+### Coding 
 > 编码
 
 - [Keep-Coding](https://github.com/usiege/Keep-Coding)
+- 
+### English 
 
+- [Keep-English](./study/english)
 
------------ （副）
+-----------
 
+## 其他的一些
 
-### Keep-Joking 
-> 无厘头
+### 脱口秀
+- [Keep-Joking](./others/joking)
 
-- [Keep-Joking](./joking)
+### 唱歌
+- [Keep-Singing](./others/singing)
 
-
-### Keep-Singing 
-> 唱歌
-
-- [Keep-Singing](./singing)
-
-
-### Keep-Popping 
-> 震动
-
-- [Keep-Popping](./popping)
+### Popping
+- [Keep-Popping](./others/popping)
 
 
